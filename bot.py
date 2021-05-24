@@ -59,4 +59,4 @@ async def embed(ctx):
 async def clear(ctx, ammount=5):
     await ctx.channel.purge(limit=ammount)
 
-client.run("ODQ0OTc0NTA2NTY0OTExMTA1.YKaN1Q.AIz7LMS_rjmaJHHqNQT6cxXaeZA")
+client.run("Your Bot token here!")
