@@ -3,4 +3,4 @@ Anthem is a open sourced bot code that you can set up fairly easy and without co
 We plan to keep the bot project alive until its death.
 
 ## Join our support server!
-https://discord.gg/yGpUxbXNvj
+https://discord.gg/yGpUxbXNvj - Support Server
